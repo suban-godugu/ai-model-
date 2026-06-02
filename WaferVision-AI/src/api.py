@@ -2,7 +2,7 @@ from fastapi import FastAPI, UploadFile, File
 import shutil
 import os
 
-from src.predict import predict_api
+from .predict import predict_api
 
 # =====================================================
 # FASTAPI APP

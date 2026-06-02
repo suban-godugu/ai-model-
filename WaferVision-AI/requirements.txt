@@ -7,3 +7,4 @@ matplotlib
 scikit-learn
 seaborn
 jupyter
+uvicorn
